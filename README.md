@@ -1,5 +1,9 @@
 docker-qis
 ==========
+# Note: This no longer works
+At present, Instagram is not making their previous search API open without significant review for partners. Therefore, unless you've somehow got one of those reviewed API keys, this simply won't work.
+
+# Background
 
 Docker container for running Propublica's [QIS](https://github.com/propublica/qis): Quick Instagram Search. QIS lets you search by geofence.
 
